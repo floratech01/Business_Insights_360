@@ -118,7 +118,7 @@ Fact table : It will have the data about the transactions
         + nan
         + LATAM
   + dim_product
-   + Divisions
+     + Divisions
       + P & A
         + Peripherals
         + Accessories
@@ -129,8 +129,8 @@ Fact table : It will have the data about the transactions
         + Networking
         + Storage
   
-    + There are 14 different categories, Like Internal HDD, keyboard
-    + There are different variants available for the same product
+     + There are 14 different categories, Like Internal HDD, keyboard
+     + There are different variants available for the same product
   + fact_forecast_monthly
     + This table is used to forecast the customer’s need in advance, which can help in
       + Higher customer satisfaction
