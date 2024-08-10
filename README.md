@@ -1,12 +1,12 @@
 # Business_Insights_360
---
+
 Welcome to the Business Insights 360 Power BI project repository! 🚀
 # Overview
--
+
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 ## Live Dashboard
----
+
 Explore the live dashboard [here](https://app.powerbi.com/groups/me/apps/332ee471-0da6-4173-af0e-fc1259f22e60/reports/e8ce437e-6ad5-4758-87fe-4bf03d811072/ReportSection306262a00c6089dc14c0?experience=power-bi).
 
 # Tech stacks
