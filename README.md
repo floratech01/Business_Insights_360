@@ -7,7 +7,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 ## Live Dashboard
 
-Explore the live dashboard [here](https://app.powerbi.com/groups/me/apps/332ee471-0da6-4173-af0e-fc1259f22e60/reports/e8ce437e-6ad5-4758-87fe-4bf03d811072/ReportSection306262a00c6089dc14c0?experience=power-bi).
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiOTc2Y2E5NDAtNTRlYi00ODM5LTg3ZjYtNTZmZDQwNzAyZWJiIiwidCI6IjZjMDczZDUxLTNiMDMtNGUxYy1iMzUxLTA0NzMzNzU0MThhMCJ9).
 
 # Tech stacks
 
